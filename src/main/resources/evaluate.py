@@ -3,7 +3,7 @@ import os
 
 pathResults = "C:\\Users\\U96153\\Documents\\NetBeansProjects\\Sphinx\\src\\main\\resources\\results\\en\\"
 goldResults = "C:\\Users\\U96153\\Documents\\NetBeansProjects\\Sphinx\\src\\main\\resources\\transcriptions\\en\\"
-
+#comment
 dictRes = {}
 
 for f in os.listdir(goldResults):
