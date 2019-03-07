@@ -1,0 +1,4 @@
+Inc:Incorporated
+Inc.:Incorporated
+SEC:S E C
+UN:U N
